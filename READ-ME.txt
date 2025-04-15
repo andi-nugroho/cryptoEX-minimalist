@@ -1,0 +1,9 @@
+  =>  Template Name    : NerdLabs - Cryptocurrency Exchange
+
+  =>  Template Link    : ( )
+
+  =>  Template License : https://()/license (or read the LICENSE.txt file)
+
+  =>  Template Author  : ANDI NUGROHO
+
+  =>  Author Website   : ( )
